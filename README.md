@@ -1,2 +1,2 @@
 # my_site
-site for trenning html css php
+site for training html css php
